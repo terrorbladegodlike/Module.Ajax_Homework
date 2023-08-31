@@ -1,0 +1,21 @@
+.container{
+  margin: 0 300px;
+}
+
+.result {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-start;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.card-image {
+  display: block;
+  width: 200px;
+  height: 150px;
+}
+
+.input{
+  width: 20%;
+}
